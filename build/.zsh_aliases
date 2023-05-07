@@ -1,0 +1,5 @@
+alias c='clear'
+alias g='git'
+alias grep='grep --color=auto'
+alias less='less -R'
+alias ls='ls -alFG'
